@@ -7,11 +7,11 @@ import mindustry.world.blocks.defense.Wall;
 
 import static mindustry.type.ItemStack.with;
 
-public class MyWall {
-    public static Block myWall;
+public class testwall {
+    public static Block testwall;
 
     public static void load() {
-        myWall = new Wall("my-wall") {{
+        testwall = new Wall("test-wall") {{
             localizedName = "Моя стена";
             description = "Простая крепкая стена.";
 
