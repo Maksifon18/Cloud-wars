@@ -1,4 +1,4 @@
-package example;
+package cloudwars;
 
 import mindustry.content.Items;
 import mindustry.type.Category;
