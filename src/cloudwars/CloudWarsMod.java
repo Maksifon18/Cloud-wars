@@ -27,6 +27,7 @@ public class CloudWarsMod extends Mod{
 
     @Override
     public void loadContent(){
+        testwall.load();
         Log.info("Loading some example content.");
     }
 
